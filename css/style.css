@@ -1292,5 +1292,13 @@ a > img.fh5co-align-center {
   letter-spacing: 3px;
   color: #7b7b7b;
 }
-
+@media screen and (max-width: 600px) {
+.introP {
+    margin-bottom: 136px;
+  }
+ p, img {
+    margin: 20px 0px 0px 40px;
+  }
+  
+} 
 /*# sourceMappingURL=style.css.map */
