@@ -1298,6 +1298,8 @@ a > img.fh5co-align-center {
   }
  p, img {
     margin: 20px 0px 0px 40px;
+     height: 0px;
+    width: 0px;
   }
   
 } 
