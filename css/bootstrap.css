@@ -1186,9 +1186,10 @@ img {
 }
 
 .img-responsive {
-  display: block;
-  max-width: 100%;
-  height: auto;
+    display: block;
+    max-width: 100%;
+    height: 290px;
+    width: 465px;
 }
 
 .img-rounded {
