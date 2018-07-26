@@ -1,0 +1,81 @@
+.container{
+  border:1px solid white;
+  width: 100%;
+  height: 710px;
+}
+
+.card{
+  border:1px solid white;
+  width: 19.02%;
+  height: 150px;
+  float: left;
+  margin-left:10px;
+}
+
+.topCard{
+  border:1px solid white;
+  width: 33.1%;
+  height: 100px;
+  float: left;
+  text-align: center;
+}
+
+.topWords{
+  border:1px dotted white;
+  width: 33%;
+  height: 100px;
+  float: left;
+  padding-left: 2px;
+  text-align: center;
+}
+
+.topCard span{
+  color: white;
+  position: relative;
+  top: 25%;
+
+}
+
+.skyBlue.selected, .skyBlue.matched{
+  background: #8CB9D9;
+}
+.red.selected, .red.matched{
+  background: #C14844;
+}
+.pink.selected, .pink.matched{
+  background: pink;
+}
+.plum.selected, .plum.matched{
+  background: plum;
+}
+.yellow.selected, .yellow.matched{
+  background: #FFC229;
+}
+.limegreen.selected, .limegreen.matched{
+  background: #839C68;
+}
+.darkorange.selected, .darkorange.matched{
+  background: darkorange;
+}
+.darkmagenta.selected, .darkmagenta.matched{
+  background: darkmagenta;
+}
+.indigo.selected, .indigo.matched{
+  background: indigo;
+}
+.turquoise.selected, .turquoise.matched{
+  background: #397786;
+}
+
+
+
+
+
+h1{
+  text-align: center;
+  color:white;
+}
+html{
+  background-color: black;
+  font-family: sans-serif;
+}
