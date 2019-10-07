@@ -13,6 +13,9 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
   font-weight: normal;
   font-style: normal;
 }
+@keyframes slideright {
+  0%{opacity: 0; transform: translateX(-100px)}
+}
 body {
   font-family: "PT Mono", sans-serif;
   font-size: 16px;
@@ -1303,5 +1306,5 @@ a > img.fh5co-align-center {
     height: 187px;
     width: 100%;
   }
-} 
+}
 /*# sourceMappingURL=style.css.map */
